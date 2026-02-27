@@ -4,7 +4,7 @@ import Header from "@/components/layout/Header";
 import Footer from "@/components/layout/Footer";
 
 export const metadata = {
-  title: "HFMS DG-Dashboard (BIS)",
+  title: "HFMS",
   icons: {
     icon: "/favicon.png",         // favicon
     apple: "/apple-touch-icon.png" // optional, for iOS
