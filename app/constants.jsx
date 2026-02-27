@@ -1,1 +1,1 @@
-export const API_BASE = "http://76.13.19.193:8000";
+export const API_BASE = "https://hrms-backend-1-1ojh.onrender.com";
